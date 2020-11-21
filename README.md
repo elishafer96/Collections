@@ -1,2 +1,2 @@
 # Collections
-Some collections that I implemented for a school project.
+A collection of collections I built to practice and understand various data structures.
